@@ -1,4 +1,3 @@
-@import url("./setup/variables.css");
 @import url("./setup/base.css");
 @import url("./blocks/btn.css");
 @import url("./blocks/logo.css");
@@ -10,3 +9,6 @@
 @import url("./blocks/main.css");
 @import url("./blocks/page.css");
 @import url("./blocks/card.css");
+@import url("./blocks/cards.css");
+@import url("./blocks/popup.css");
+@import url("./blocks/form.css");
